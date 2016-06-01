@@ -1,6 +1,6 @@
 /**
  * 冒泡算法
- * Created by WifiPix-liubo on 2016/5/31.
+ * Created by liubo on 2016/5/31.
  */
 public class BubbleSort {
 

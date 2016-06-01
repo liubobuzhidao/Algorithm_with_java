@@ -1,6 +1,6 @@
 /**
  * 选择排序
- * Created by WifiPix-liubo on 2016/5/28.
+ * Created by liubo on 2016/5/28.
  */
 public class SelectSort {
     // 测试使用类
