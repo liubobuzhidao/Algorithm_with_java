@@ -1,3 +1,5 @@
+package java;
+
 /**
  * 选择排序
  * Created by liubo on 2016/5/28.

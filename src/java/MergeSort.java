@@ -1,3 +1,5 @@
+package java;
+
 /**
  *  归并排序
  * Created by liubo on 2016/6/6.

@@ -1,3 +1,5 @@
+package java;
+
 /**
  *  折半插入法
  * Created by liubo on 2016/6/6.
